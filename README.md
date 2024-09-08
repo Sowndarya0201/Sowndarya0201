@@ -8,7 +8,7 @@
 
 📫 How to reach me via email at sowndaryas0201@gmail.com or connect with me on LinkedIn.
 
-⚡ Fun fact: I love solving complex coding challenges and enjoy hiking in my free time!
+⚡ Fun fact: I love solving complex coding challenges and enjoy painting in my free time!
 
 <!---
 Sowndarya0201/Sowndarya0201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
